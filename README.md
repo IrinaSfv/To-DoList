@@ -18,12 +18,13 @@ In this project, I've learned how to:
 ## Installation
 * Run `GitBash` (or `Terminal` on MacOS);
 * Select or create a new repository where you want to put the project;
-* Run the command: `git clone https://github.com/IrinaSfv/how-to-learn.git`;
-* Open the project in any convenient code editor.
+* Run the command: `git clone https://github.com/IrinaSfv/To-DoList.git`;
+* Run the command: `npm install`;
+* Open the project with the command: `npm start`.
 
 ## Usage
 You can view the current version of the page by following the link:
-### [To-do List](https://irinasfv.github.io/how-to-learn/)
+### [To-do List](https://irinasfv.github.io/To-DoList/)
 
 ## To-do
 * Make the page adaptive for different screen formats.
